@@ -8,7 +8,9 @@
     ],
     "BIDSVersion": "1.8.0",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
-    "Funding": [],
+    "Funding": [
+        "NIH R01-AG067011"
+    ],
     "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
     "License": "CC0",
     "Name": "Social Reward and Aging: A Preliminary Multiecho fMRI and Diffusion Dataset",
