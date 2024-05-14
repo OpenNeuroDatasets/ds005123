@@ -21,7 +21,7 @@
     "Funding": [
         "NIH R01-AG067011"
     ],
-    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "HowToAcknowledge": "Please cite the corresponding data paper (under review at Data in Brief).",
     "License": "CC0",
     "Name": "Social Reward and Aging: A Preliminary Multiecho fMRI and Diffusion Dataset",
     "ReferencesAndLinks": [
