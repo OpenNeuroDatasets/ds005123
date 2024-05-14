@@ -1,10 +1,20 @@
 {
     "Acknowledgements": "We thank Jeffery Dennison, Ori Zaff, Rita Ludwig, Makayla Collins, Ashley Hawk, Enes Yanilmaz, and Matthew J. Drayton for assistance with data collection. ",
     "Authors": [
-        "TODO:",
-        "First1 Last1",
-        "First2 Last2",
-        "..."
+        "David V. Smith",
+        "Cooper J. Sharp",
+        "Abraham Dachs",
+        "James Wyngaarden",
+        "Daniel Sazhin",
+        "Jen Yang",
+        "Melanie Kos",
+        "Tia Tropea",
+        "Ishiki Kohli",
+        "John A. Clithero",
+        "Ingrid Olson",
+        "Tania Giovannetti",
+        "Dominic Fareri",
+        "Johanna M. Jarcho"
     ],
     "BIDSVersion": "1.8.0",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
