@@ -1,3 +1,6 @@
+1.0.1 2024-06-05
+  - add demographics to participants.tsv
+  - change dataset title to "interim"
 1.0.0 2024-05-15
   - Initial Upload
 0.0.1  Initial data acquired
