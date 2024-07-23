@@ -1,3 +1,6 @@
+1.1.0 2024-07-23
+  - update dataset title
+  - clarify missing data
 1.0.1 2024-06-05
   - add demographics to participants.tsv
   - change dataset title to "interim"
