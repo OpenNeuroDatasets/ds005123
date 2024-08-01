@@ -18,3 +18,5 @@ Social relationships change across the lifespan as social networks narrow and mo
 We note that participants 10584, 10951, and 11005 are missing dwi. This is due to chiller malfunctions during the sequence that halted data collection. We also note that not all participants have two runs of each task. This was due to time constraints during the scan visits.
 
 Code related to this dataset can be found on GitHub (https://github.com/DVS-Lab/SRPAL-DataInBrief/code/).
+
+Original sourcedata for behavioral data is included in the sourcedata folder. Due to privacy restrictions, we cannot release original sourcedata for the imaging data (i.e., DICOM files).
