@@ -1,5 +1,7 @@
 # Summary
-This is a preliminary release of a dataset supported by the National Institutes of Aging and National Insitutes of Health. The full dataset is described in a submission to Data in Brief.
+This is a preliminary release of a dataset supported by the National Institutes of Aging and National Institutes of Health. The full dataset is described in a paper published in Data in Brief (https://doi.org/10.1016/j.dib.2024.110810). Please cite this paper if you use this dataset. 
+
+Smith, D. V., Sharp, C. J., Dachs, A., Wyngaarden, J., Sazhin, D., Yang, Y., Kos, M., Tropea, T., Kohli, I., Clithero, J. A., Olson, I., Giovannetti, T., Fareri, D., Jarcho, J. M. (2024). Social Reward and Nonsocial Reward Processing Across the Adult Lifespan: An Interim Multi-echo fMRI and Diffusion Dataset. Data in Brief, 110810. doi: https://doi.org/10.1016/j.dib.2024.110810
 
 
 # Abstract
