@@ -21,7 +21,7 @@
     "Funding": [
         "NIH R01-AG067011"
     ],
-    "HowToAcknowledge": "Please cite the corresponding data paper published in Data in Brief.",
+    "HowToAcknowledge": "Please cite the corresponding data paper published in Data in Brief (https://doi.org/10.1016/j.dib.2024.110810).",
     "License": "CC0",
     "Name": "Social Reward and Nonsocial Reward Processing Across the Adult Lifespan: An Interim Multi-echo fMRI and Diffusion Dataset",
     "ReferencesAndLinks": [
